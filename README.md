@@ -43,3 +43,6 @@ This tells Dolphin to actually run executables when double-clicked, instead of j
          
 4. Move this entry to the **top of the Application Preference Order**. 
 5. Apply and close.
+
+
+P.S. I’ve added a simple script to test this
